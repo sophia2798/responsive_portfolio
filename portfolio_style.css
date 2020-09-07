@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://wallpaperset.com/w/full/6/c/4/500591.jpg");
+}
+
+a {
+    font-family: 'Rock Salt', cursive;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height:5vw;
+    background: pink;
+    text-align: center;
+    padding: 10px;
+    border-top: 10px double whitesmoke;
+    font-family: 'Rock Salt', cursive;
+    color: #eee;
+}
