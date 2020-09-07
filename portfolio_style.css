@@ -6,6 +6,20 @@ a {
     font-family: 'Rock Salt', cursive;
 }
 
+.portfolio {
+    /* width: 1024px; */
+    background: whitesmoke;
+    margin: 75px 25px 0 25px;
+}
+
+img {
+    /* margin: 5px; */
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    padding-top: 20px;
+}
 
 footer {
     position: fixed;
