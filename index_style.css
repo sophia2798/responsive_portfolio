@@ -2,6 +2,26 @@ body {
     background-image: url("https://wallpaperset.com/w/full/6/c/4/500591.jpg");
 }
 
+.navbar-brand {
+    border-bottom: 3px dotted whitesmoke;
+    border-top: 3px dotted whitesmoke;
+    color: black;
+}
+
+.navbar-toggler {
+    border-color: white;
+}
+
+.navbar-toggler-icon { 
+    background-image: url( 
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(225,225,225)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar {
+    background: pink;
+}
+
+
 img {
     width: 200px;
     float: left;
@@ -11,12 +31,18 @@ img {
 
 a {
     font-family: 'Rock Salt', cursive;
+    color: white;
+}
+
+a:hover {
+    color: #cccccc;
 }
 
 .content {
     width: 1024px;
     background: whitesmoke;
     margin: 75px 25px 0 25px;
+    border: 5px ridge pink;
 }
 
 h1 {
@@ -38,6 +64,15 @@ footer {
     height:5vw;
     background: pink;
     text-align: center;
+    color: #eee;
     padding: 10px;
     border-top: 10px double whitesmoke;
     font-family: 'Rock Salt', cursive;
+}
+
+@media screen and (max-width:400px) {
+    .content {
+        margin: 10px auto 0 auto;
+        width: 90%;
+    }
+}

@@ -30,7 +30,7 @@ a:hover {
     color: #cccccc;
 }
 
-.portfolio {
+.contact {
     width: 1024px;
     background: whitesmoke;
     margin: 75px 40px;
@@ -39,19 +39,19 @@ a:hover {
     border: 5px ridge pink;
 }
 
-
-img {
-    padding: 15px;
-}
-
-.images {
-    padding: 0;
-}
-
 h1 {
     font-family: 'Rock Salt', cursive;
     padding-top: 20px;
     padding-left: 10px;
+}
+
+.form {
+    font-family: 'Covered By Your Grace', cursive;
+    letter-spacing: 1px;
+}
+
+button {
+    margin-bottom: 20px;
 }
 
 footer {
@@ -65,8 +65,4 @@ footer {
     border-top: 10px double whitesmoke;
     font-family: 'Rock Salt', cursive;
     color: #eee;
-}
-
-@media screen and (max-width:400px) {
-    .portfolio
 }
