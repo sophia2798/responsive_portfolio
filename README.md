@@ -29,3 +29,11 @@ Customized Code with Accompanying CSS Styling (Does NOT include Google Fonts emb
 ![alt-text](./assets/css.png "Styling")
 
 ![alt-text](./assets/newex.png "New Navbar Example")
+
+## Credits 
+
+Bootstrap - https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+W3 Schools - https://www.w3schools.com/default.asp 
+
+Stack Overflow - https://stackoverflow.com/
