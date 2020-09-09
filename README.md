@@ -18,5 +18,5 @@ Example:
 
 Original from Bootstrap:
 
-![alt-text](./assets/origina.png "Original Code")
+![alt-text](./assets/original.png "Original Code")
 
