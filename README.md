@@ -6,7 +6,7 @@ This repository is comprised of a three page portfolio website that includes an 
 
 There was no additional Javascript added to this code aside from what was linked from the Boostrap library. 
 
-The Bootstrap content and components used in this portfolio are a Navbar, a Form, and Responsive Images. Additional features include, hover image text, social media links and icons, and a sticky footer.
+The Bootstrap content and components used in this portfolio are a Navbar, a Form, and Responsive Images. Additional features include, hover image text, social media links and icons, Google Fonts, and a sticky footer.
 
 ## Usage 
 
@@ -20,9 +20,12 @@ Original from Bootstrap
 
 ![alt-text](./assets/original.png "Original Code")
 
-Customized Code with Accompanying CSS Styling
+![alt-text](./assets/originalex.png "Original Navbar Example")
+
+Customized Code with Accompanying CSS Styling (Does NOT include Google Fonts embed code)
 
 ![alt-text](./assets/new.png "New Code")
 
 ![alt-text](./assets/css.png "Styling")
 
+![alt-text](./assets/newex.png "New Navbar Example")
