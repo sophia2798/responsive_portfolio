@@ -16,6 +16,7 @@ The existing code also can also serve as an example of how to edit existing Boot
 
 Example:
 
-    Original from Bootstrap:
-    ![alt-text](./assets/origina.png "Original Code")
+Original from Bootstrap:
+
+![alt-text](./assets/origina.png "Original Code")
 
