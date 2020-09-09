@@ -1,5 +1,7 @@
 body {
     background-image: url("https://wallpaperset.com/w/full/6/c/4/500591.jpg");
+    height: 100vh;
+    position: relative;
 }
 
 .navbar-brand {
@@ -88,7 +90,7 @@ button {
 }
 
 footer {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     background: pink;
