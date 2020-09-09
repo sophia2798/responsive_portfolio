@@ -16,7 +16,13 @@ The existing code also can also serve as an example of how to edit existing Boot
 
 Example:
 
-Original from Bootstrap:
+Original from Bootstrap
 
 ![alt-text](./assets/original.png "Original Code")
+
+Customized Code with Accompanying CSS Styling
+
+![alt-text](./assets/new.png "New Code")
+
+![alt-text](./assets/css.png "Styling")
 
