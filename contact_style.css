@@ -1,6 +1,10 @@
+html {
+    height: 100%;
+}
+
 body {
     background-image: url("https://wallpaperset.com/w/full/6/c/4/500591.jpg");
-    height: 100vh;
+    min-height: 100vh;
     position: relative;
 }
 
@@ -89,6 +93,11 @@ button {
     color: white;
 }
 
+.fa-phone {
+    background: rgb(100, 131, 69);
+    color: white;
+}
+
 footer {
     position: absolute;
     bottom: 0;
@@ -104,5 +113,14 @@ footer {
 @media screen and (max-width:400px) {
     .contact {
         margin: 10px auto 0 auto;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    label, ::placeholder {
+        font-size: 13px;
+    }
+    .btn {
+        font-size: 10px;
     }
 }
