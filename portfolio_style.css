@@ -112,20 +112,32 @@ footer {
         margin: 10px auto 0 auto;
     }
 }
-
+/* 
 @media screen and (min-width: 992px) {
     body {
-        height: 100vh;
+        height: 100%;
         position: relative;
     }
     footer {
         position: absolute;
         bottom: 0;
     }
-}
+} */
 
-@media screen and (min-width: 1111px) {
+/* @media screen and (min-width: 1111px) {
     body {
         height: auto;
     }
 }
+
+@media screen and (min-height: 1130px) {
+    body {
+        height: 100vh;
+    }
+}
+
+@media screen and (max-height: 954px) {
+    body {
+        height: auto;
+    }
+} */
